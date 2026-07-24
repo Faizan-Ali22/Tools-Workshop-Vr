@@ -36,8 +36,8 @@ namespace PTTI.TradeTrainingSDK.Tools
         [Header("Grinder — Blade")]
         [Tooltip("The blade/disc child transform that spins.")]
         [SerializeField] private Transform bladeTransform;
-        [Tooltip("Local axis the blade spins around (usually forward for a disc).")]
-        [SerializeField] private Vector3 spinAxis = Vector3.forward;
+        [Tooltip("Local axis the blade spins around (perpendicular to disc face).")]
+        [SerializeField] private Vector3 spinAxis = Vector3.right;
 
         [Header("Grinder — Speed")]
         [Tooltip("Revolutions per minute at idle (no load).")]

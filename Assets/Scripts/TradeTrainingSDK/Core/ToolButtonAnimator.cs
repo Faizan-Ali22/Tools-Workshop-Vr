@@ -18,7 +18,7 @@ namespace PTTI.TradeTrainingSDK
     public class ToolButtonAnimator : MonoBehaviour
     {
         [Tooltip("Local-space position offset when the button is pressed down.")]
-        [SerializeField] private Vector3 pressOffset = new Vector3(0f, -0.003f, 0f);
+        [SerializeField] private Vector3 pressOffset = new Vector3(0f, -0.00003f, 0f);
 
         [Tooltip("Speed of the press/release animation (higher = snappier).")]
         [SerializeField] private float animSpeed = 15f;
