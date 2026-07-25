@@ -4971,10 +4971,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 37051449401314899}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01cc74368871d8b4b8b4e97deadc8768, type: 3}
+  m_Script: {fileID: 11500000, guid: 291212daf1854e84995c025bfe00261c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BladeContact
-  jigsawMachine: {fileID: 7541618624111667260}
+  jigsawTool: {fileID: 7541618624111667260}
   sparkEffect: {fileID: 2821626973748581928}
 --- !u!1 &1618990972218590064 stripped
 GameObject:
@@ -5169,17 +5169,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1618990972218590064}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f8501fbe6c9b60048b45714b09f84740, type: 3}
+  m_Script: {fileID: 11500000, guid: 8c67b412ccc02194bb87b14cccb02510, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::JigsawMachine
   blade: {fileID: 1801862591628701537}
   strokeAxis: {x: 0, y: 1, z: 0}
   strokeAmplitude: 0.006
   strokeFrequency: 20
-  motorAudio: {fileID: 0}
-  cuttingAudio: {fileID: 0}
-  idleVibration: 0.1
-  cuttingVibration: 0.5
+  motorAudioSource: {fileID: 0}
+  useAudioSource: {fileID: 0}
+  idleHapticIntensity: 0.1
+  activeHapticIntensity: 0.5
 --- !u!82 &213770970526950279
 AudioSource:
   m_ObjectHideFlags: 0
