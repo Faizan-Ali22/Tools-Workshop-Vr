@@ -1,0 +1,229 @@
+      propertyPath: m_Name
+      propertyPath: m_Name
+  m_Name: 
+      m_Name: Pinch Animation
+      m_Name: Grip Animation
+  m_Name: Cube.023
+  m_Name: Plane (2)
+  m_Name: Cube.054
+      propertyPath: m_Name
+  m_Name: Cube.052 (1)
+  m_Name: Camera Offset
+  m_Name: Cylinder.040
+  m_Name: Cube.041
+  m_Name: Cube
+  m_Name: Plane.001 (1)
+      propertyPath: m_Name
+      propertyPath: m_Name
+      propertyPath: m_Name
+  m_Name: Plane.002
+  m_Name: Mech10_4
+  m_Name: Cube.008 (3)
+  m_Name: Cube.042 (1)
+      propertyPath: m_Name
+  m_Name: 
+  m_Name: 
+  m_Name: 
+  m_Name: 
+  m_Name: Plane.003
+  m_Name: Stand
+      propertyPath: m_Name
+      propertyPath: m_Name
+  m_Name: 
+  m_Name: 
+  m_Name: Directional Light
+  m_Name: 
+  m_Name: Plane.010
+  m_Name: PrimaryGrabPoint
+  m_Name: 
+  m_Name: Plane (1)
+  m_Name: Cube.004
+  m_Name: Cylinder.063
+  m_Name: Sheet
+  m_Name: 
+  m_Name: Cube.024
+  m_Name: Cube.052
+  m_Name: Cube.010 (1)
+  m_Name: Cube.045
+      propertyPath: m_Name
+      propertyPath: m_Name
+  m_Name: Cube.005 (1)
+  m_Name: Cube.040
+  m_Name: Cube.039
+  m_Name: GameObject
+  m_Name: Cube.048 (1)
+  m_Name: XR Interaction Manager
+  m_Name: 
+  m_Name: Main Camera
+  m_Name: 
+      m_Name: Position
+      - m_Name: 
+      - m_Name: 
+      m_Name: Rotation
+      - m_Name: 
+      - m_Name: 
+      m_Name: Tracking State
+      - m_Name: 
+    m_Name: 
+    m_Name: 
+  m_Name: 
+  m_Name: ' (Instance)'
+  m_Name: Plane.001
+  m_Name: shootsouce
+  m_Name: Cube.005
+  m_Name: Cube.045 (1)
+  m_Name: Cube.010
+  m_Name: Attach (1)
+  m_Name: Cube.009
+      propertyPath: m_Name
+  m_Name: 
+      m_Name: Pinch Animation
+      m_Name: Grip Animation
+  m_Name: Test Workpiece
+  m_Name: 
+  m_Name: Plane (3)
+  m_Name: Cube.051 (1)
+      propertyPath: m_Name
+  m_Name: 
+      m_Name: Select
+      m_Name: Select Value
+      m_Name: Activate
+      m_Name: Activate Value
+  m_Name: Cylinder.044
+      propertyPath: m_Name
+  m_Name: 
+  m_Name: 
+  m_Name: 
+  m_Name: 
+  m_Name: Cube.043 (1)
+  m_Name: Cube.007
+  m_Name: Left Controller
+  m_Name: 
+      m_Name: Position
+      m_Name: Rotation
+      m_Name: Is Tracked
+      m_Name: Tracking State
+      m_Name: Select
+      m_Name: Select Action Value
+      m_Name: Activate
+      m_Name: Activate Action Value
+      m_Name: UI Press
+      m_Name: UI Press Action Value
+      m_Name: UI Scroll
+      m_Name: Haptic Device
+      m_Name: Rotate Anchor
+      m_Name: Directional Anchor Rotation
+      m_Name: Translate Anchor
+      m_Name: Scale Toggle
+      m_Name: Scale Delta
+  m_Name: Cube.030
+  m_Name: Cube.040 (1)
+      propertyPath: m_Name
+  m_Name: 
+  m_Name: 
+  m_Name: Chair
+  m_Name: Cube.008 (2)
+  m_Name: 
+  m_Name: 
+  m_Name: XR Origin (XR Rig)
+  m_Name: 
+  m_Name: 
+  m_Name: 
+  m_Name: 
+  m_Name: Plane
+  m_Name: 
+  m_Name: Sparks
+  m_Name: Cube.038
+  m_Name: Cube.043
+  m_Name: 
+  m_Name: Right Controller
+  m_Name: 
+      m_Name: 
+      m_Name: 
+      m_Name: 
+      m_Name: Tracking State
+      m_Name: 
+      m_Name: Select Action Value
+      m_Name: 
+      m_Name: Activate Action Value
+      m_Name: 
+      m_Name: UI Press Action Value
+      m_Name: UI Scroll
+      m_Name: Haptic Device
+      m_Name: 
+      m_Name: Directional Anchor Rotation
+      m_Name: 
+      m_Name: Scale Toggle
+      m_Name: Scale Delta
+  m_Name: Plane.009
+  m_Name: BladeTip
+  m_Name: 
+  m_Name: Cube.022
+      propertyPath: m_Name
+  m_Name: 
+      m_Name: Select
+      m_Name: Select Value
+      m_Name: Activate
+      m_Name: Activate Value
+  m_Name: Attach
+  m_Name: Plane
+      propertyPath: m_Name
+  m_Name: 
+  m_Name: 
+      propertyPath: m_Name
+  m_Name: Cylinder.062
+  m_Name: Plane.002 (1)
+  m_Name: Cube.007 (1)
+  m_Name: Cube.051
+  m_Name: 
+  m_Name: 
+  m_Name: Cube.003
+  m_Name: Cube.046 (1)
+  m_Name: Plane.006
+  m_Name: BladeContactTrigger
+  m_Name: 
+  m_Name: 
+  m_Name: Cube.006
+  m_Name: Cylinder.057
+  m_Name: Plane.011
+      propertyPath: m_Name
+  m_Name: Cube.054 (1)
+      propertyPath: m_Name
+  m_Name: Cylinder.026
+  m_Name: Cube.044
+  m_Name: 
+  m_Name: ToolBox
+  m_Name: 
+  m_Name: 
+      propertyPath: m_Name
+  m_Name: 
+  m_Name: SecondGrabPoint (1)
+  m_Name: 
+  m_Name: Cube.053 (1)
+  m_Name: Cube.046
+  m_Name: Plane.006 (1)
+      propertyPath: m_Name
+  m_Name: Cube.042
+      propertyPath: m_Name
+  m_Name: Cube.020
+  m_Name: Cylinder.061
+  m_Name: Cube.048
+  m_Name: Cube.008
+  m_Name: Cube.053
+  m_Name: Attach
+  m_Name: Cube.006 (1)
+  m_Name: Cube.008 (1)
+  m_Name: cyl2
+  m_Name: Angle Grinder
+  m_Name: 
+  m_Name: 
+  m_Name: joint1
+  m_Name: Blade
+  m_Name: Blade hook
+  m_Name: Handle
+  m_Name: joint3
+  m_Name: joint2
+  m_Name: body
+  m_Name: Button
+  m_Name: button
+  m_Name: 
